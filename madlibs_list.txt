@@ -3,12 +3,12 @@
 3. beautiful
 4. red
 5. August
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+6. Ten
+7. Animals
+8. Plants
+9. Mammal
+10. Zachary
+11. Water
 12. Adjective
 13. Material
 14. Activity
