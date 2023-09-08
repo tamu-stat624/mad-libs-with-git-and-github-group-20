@@ -9,10 +9,10 @@
 9. Mammal
 10. Zachary
 11. Water
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+12. Calm
+13. water
+14. flying
+15. high
 16. 1
 17. Second
 18. Badminton
